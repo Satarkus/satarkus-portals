@@ -1,0 +1,7 @@
+## Interface: 30401
+## Title: SatarkusPortals
+## Notes: El vendedor automático del mismisimo archimago Satarkus
+## Author: Satarkus
+## Version: 1.0.0
+
+SatarkusPortals.lua
