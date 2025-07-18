@@ -1,4 +1,4 @@
-## Interface: 30401
+## Interface: 30401,11200
 ## Title: SatarkusPortals
 ## Notes: El vendedor automático del mismisimo archimago Satarkus
 ## Author: Satarkus
